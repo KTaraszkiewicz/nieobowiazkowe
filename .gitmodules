@@ -1,3 +1,6 @@
 [submodule "dockerSubmodule"]
 	path = dockerSubmodule
 	url = https://github.com/KTaraszkiewicz/dockerfileSubmodule.git
+[submodule "CMake"]
+	path = CMake
+	url = https://github.com/KTaraszkiewicz/CMake.git
